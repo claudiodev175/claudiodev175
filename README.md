@@ -43,6 +43,8 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=claudiodev175&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/claudiodev175/claudiodev175/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -52,12 +54,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/claudiodev175/claudiodev175/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/claudiodev175/claudiodev175/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-###
-
-<div data-importer="stats" align="center">
- 
-  <img src="https://raw.githubusercontent.com/claudiodev175/claudiodev175/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
